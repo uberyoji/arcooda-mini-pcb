@@ -17,4 +17,7 @@ To assemble the mount you need to source:
 
 To fix the mount in place you'll need to upgrade your M5 screws to at least 25mm. You'll need 2 with matching extra nuts.
 
-If you just want a mount for the original PCB, you can grab my design on Printable right [here](https://www.printables.com/model/341039-arcooda-pcb-side-panel-support).
+
+Notes
+- v4 is the same as v3 except I swapped the LED component for something available at the fab.
+- If you want a mount for the original PCB, you can grab my other design on Printable right [here](https://www.printables.com/model/341039-arcooda-pcb-side-panel-support).
